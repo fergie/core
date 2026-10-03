@@ -1,0 +1,15 @@
+{
+  "domain": "gude_pdu",
+  "name": "GUDE PDU",
+  "codeowners": ["@fergie"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/gude_pdu",
+  "homekit": {},
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
